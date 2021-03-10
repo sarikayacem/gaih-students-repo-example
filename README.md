@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 19.03.2021  
 **Name:** Cem  
 **Surname:** Sarıkaya  
 **Email:** sarikayacem@outlook.com  
